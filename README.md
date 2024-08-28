@@ -1,6 +1,6 @@
 # Gestión de Proyectos
 
-Proyecto escolar realizado en Java para la gestión de una empresa de construcción (proyectos, empleados, proveedores, suministros etc…). Hace uso de una base de datos MySQL y el ORM Hibernate además de una interfaz de usuario realizada con Swing y SwingWorkers.  
+An academic project developed in Java designed to manage various aspects of a construction company, including project management, employee oversight, supplier coordination, and inventory management. The system leverages a MySQL database and Hibernate ORM for data persistence, and features a user-friendly interface built with Swing and SwingWorker for efficient, responsive operations
 
 ## Screenshots
 
